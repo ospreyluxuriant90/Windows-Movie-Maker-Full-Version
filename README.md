@@ -268,4 +268,4 @@ This repository serves as the official landing page for Windows Movie Maker. The
 **Get the most recent version of Windows Movie Maker today!**
 
 ---
-**Last updated:** 2026-09-17 22:33:55 UTC
+**Last updated:** 2026-09-18 00:55:37 UTC
